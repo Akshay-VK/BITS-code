@@ -1,0 +1,28 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "time_out": 2,
+      "input": "1\n1\n1\n",
+      "output": "This program takes a date in the year 2025 and can perform two operations.\nEnter day (1-31): Enter month (1-12): \n\nThe operations are:\n\t1. Find what day of the year it is (e.g., Jan 1 is day 1, Dec 31 is day 365)\n\t2. Find what day of the week it is (Monday, Tuesday, etc.)\nChoose an option (1-2): \n ~~~ The day of the year is: 1 ~~~\n\n"
+    },
+    {
+      "id": 2,
+      "time_out": 2,
+      "input": "31\n12\n1\n",
+      "output": "This program takes a date in the year 2025 and can perform two operations.\nEnter day (1-31): Enter month (1-12): \n\nThe operations are:\n\t1. Find what day of the year it is (e.g., Jan 1 is day 1, Dec 31 is day 365)\n\t2. Find what day of the week it is (Monday, Tuesday, etc.)\nChoose an option (1-2): \n ~~~ The day of the year is: 365 ~~~\n\n"
+    },
+    {
+      "id": 3,
+      "time_out": 2,
+      "input": "1\n1\n2\n",
+      "output": "This program takes a date in the year 2025 and can perform two operations.\nEnter day (1-31): Enter month (1-12): \n\nThe operations are:\n\t1. Find what day of the year it is (e.g., Jan 1 is day 1, Dec 31 is day 365)\n\t2. Find what day of the week it is (Monday, Tuesday, etc.)\nChoose an option (1-2): \n ~~~ The day of the week is: Wednesday ~~~\n\n"
+    },
+    {
+      "id": 4,
+      "time_out": 2,
+      "input": "15\n8\n2\n",
+      "output": "This program takes a date in the year 2025 and can perform two operations.\nEnter day (1-31): Enter month (1-12): \n\nThe operations are:\n\t1. Find what day of the year it is (e.g., Jan 1 is day 1, Dec 31 is day 365)\n\t2. Find what day of the week it is (Monday, Tuesday, etc.)\nChoose an option (1-2): \n ~~~ The day of the week is: Friday ~~~\n\n"
+    }
+  ]
+}
